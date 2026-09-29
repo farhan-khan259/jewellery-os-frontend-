@@ -11,3 +11,4 @@ Open http://localhost:5173. Start the backend separately with `npm run dev` insi
 
 `npm run build` creates `dist/`. For production, keep the built folder beside `../backend`; Express serves it from the same origin. See `../README.md` for account setup and the combined demo.
 # jewellery-os-frontend-
+# jewellery-os-frontend-
